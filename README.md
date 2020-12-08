@@ -1,5 +1,5 @@
 # Meetup-events
-This repo contains all the info for our monthly meetup events. 
+This repo contains all the info for our monthly meetup events. More details on talks subjects can be found [here](https://python.ie/talk-subjects/).
 
 ## Overview
 ### We run monthly meetups on the 2nd WEDNESDAY of each month.
